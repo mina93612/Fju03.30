@@ -1,0 +1,10 @@
+com/mina/Mailbox.java
+ com.mina.Mailbox
+com/mina/Boxsize.java
+ com.mina.Boxsize
+com/mina/Tester.java
+ com.mina.Tester
+com/mina/Student.java
+ com.mina.Student
+com/mina/GrauationStudent.java
+ com.mina.GrauationStudent
