@@ -1,6 +1,6 @@
-package com.mina;
+package com.mina.stu;
 
-import java.util.Scanner;
+import com.mina.stu.GrauationStudent;
 
 public class Tester {
     public static void main(String[] args) {

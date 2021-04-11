@@ -1,4 +1,4 @@
-package com.mina;
+package com.mina.stu;
 
 public class Student {
         String id;

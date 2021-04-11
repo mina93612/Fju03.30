@@ -10,6 +10,8 @@ public class Mailbox {
         int length = Integer.parseInt(scanner.next());
         System.out.println("Please enter object\'s width: ");
         int width = Integer.parseInt(scanner.next());
+        System.out.println("Please enter object\'s height: ");
+        int height = Integer.parseInt(scanner.next());
 
     }
 }
