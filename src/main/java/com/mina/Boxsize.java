@@ -8,4 +8,5 @@ public class Boxsize {
     public  boolean validate(int a ,int b ,int c ){
         return ( a <= length && b <= width && c<=height);
     }
+
 }
