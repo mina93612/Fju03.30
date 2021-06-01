@@ -1,4 +1,6 @@
-package com.mina;
+package com.mina.box;
+
+import com.mina.box.Boxsize;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.mina;
+package com.mina.box;
 
 public class Boxsize {
     int length;

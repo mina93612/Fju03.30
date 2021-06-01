@@ -10,10 +10,10 @@ com/mina/Mailbox.java
  com.mina.Mailbox
 com/mina/oo/Racing.java
  com.mina.oo.Racing
-com/mina/oo/HorseRunnable.java
- com.mina.oo.HorseRunnable
 com/mina/oo/Horse.java
  com.mina.oo.Horse
+com/mina/oo/Tester.java
+ com.mina.oo.Tester
 com/mina/racing/Horse.java
  com.mina.racing.Horse
 com/mina/racing/Racing.java
